@@ -46,6 +46,9 @@ img {
 
 }
 
+.box:nth-child(3), .box:nth-child(5){
+    clear:left;
+}
 
 .red {
     background: red;
@@ -60,8 +63,6 @@ img {
 
 .green {
     background: green;
-    clear:left;
-    margin-left: 1px;
 }
 .blue {
     background: blue;
