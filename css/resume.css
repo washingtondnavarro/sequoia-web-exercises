@@ -1,3 +1,8 @@
+
+h1,h2 {
+    color: darkblue;
+    text-align: center;
+}
 body {
     background: #e0e1ff;
 }
