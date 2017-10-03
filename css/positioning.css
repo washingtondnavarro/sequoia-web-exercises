@@ -1,3 +1,27 @@
+/*
+#container {
+    margin: 50px auto;
+    width: 500px;
+    border: 1px solid #000;
+    padding: 10px;
+} */
+
+/*
+#box1 {
+    background-color: #77AF00; /
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+/*
+#box2 {
+    background-color: #1969B2; /* blueish
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+*/
+
 .box {
 
     width: 50px;
@@ -13,8 +37,8 @@
 }
 
 image {
-    position: relative;
-    right: 1000px;
+    margin-top: 0px;
+
 }
 
 
